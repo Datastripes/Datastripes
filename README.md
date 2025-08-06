@@ -1,6 +1,6 @@
 # Datastripes
 
-Datastripes is live and the waiting list is open — and we’d love your feedback!
+Datastripes is a no-backend, in-browser-native data engine with 300+ drag & drop nodes, AI-generated insights, and even narrated dashboards. Explore, analyze, and explain data, all in one place, with zero setup.
 
 Imagine a data analysis tool that runs 100% in-browser, no backend, no setup. Just open your browser and start exploring, visualizing, and narrating insights instantly.
 
